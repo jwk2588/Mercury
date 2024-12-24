@@ -1,0 +1,15 @@
+# Ignore data files
+/data/raw/
+/data/processed/
+/data/archive/
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment
+/venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
